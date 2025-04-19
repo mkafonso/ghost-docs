@@ -5,6 +5,9 @@
   "main": "src/ndex.js",
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "keywords": [
     "postman",
     "documentation",
