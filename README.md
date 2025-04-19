@@ -1,6 +1,6 @@
 # 👻 Ghost Docs
 
-Ghost Docs is an automated documentation generator that reads your Postman collections and turns each request into a clean, standardized Markdown file — ready to be shared or pushed to Confluence.
+Ghost Docs is an automated documentation generator that reads your Postman collections and turns each request into a clean, standardized Markdown file
 
 ---
 
